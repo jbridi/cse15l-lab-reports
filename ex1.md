@@ -13,7 +13,5 @@
 3. Three
  `Example` with backticks
  ```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+try an edit
 ```
