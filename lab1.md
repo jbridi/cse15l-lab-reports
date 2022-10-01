@@ -1,10 +1,6 @@
 # Lab1
 Remote Access and the Filesystem
 1. Install VScode <br />
-<<<<<<< HEAD
-![Vscode](sc1.png)
-* to download V
-=======
 ![Vscode](sc1.png) <br />
 * First make sure that the user's computer does not have VSCode installed already
 * If not then go to the following website to install [Vscode]((https://code.visualstudio.com/)
@@ -28,12 +24,14 @@ Remote Access and the Filesystem
 ![sc4](sc4.png) <br />
 * Client shows that it runs on window 10 (my laptop) 
 * Log into ieng6 and repeat the command above <br />
-![sc5](sc5.png)
+![sc5](sc5.png)<br />
 * Shows that it runs on linux on server
 5. SSH Keys
 * use ssh-keygen to create a pair of files called public key and private key
 * Then copy the public key to .ssh directory of user account on ther server
 ![sc6](sc6.png)<br />
-6. Making Remote Running Even More Pleasant
-* 
+6. Making Remote Running Even More Pleasant<br />
+![sc7](sc7.png)<br />
+* Use semicolons to run multiple commands on the same line
+* up arrow on keyboard to recall last command that was run
 >>>>>>> 17963ad9407205211b94bca1e9ba12a1a7906a4e
