@@ -6,13 +6,13 @@ Remote Access and the Filesystem
 * If not then go to the following website to install [Vscode]((https://code.visualstudio.com/)
 * I already had VSCode installed on my computer <br />
 2. Remotely Connecting <br />
-![remotelyconnecting] (sc2.png) <br />
+![remotelyconnecting](sc2.png) <br />
 * first is to install OpenSSH
 * * verify that SSh host is connected by running *ssh user@domain@hostname
 * Then to connect to the remote computer but using VSCode by opening terminal in VSCode
 * In the terminal the command should be ssh cs15lfa22oj@ieng6.ucsd.edu (type yes)
 3. Run Some Commands <br />
-![commands] (sc3.png) <br />
+![commands](sc3.png) <br />
 * After ssh-ing run commands
 * one example is in the image above which I used the command cat /home/linux/ieng6/cs15lfa22/public/hello.txt
 4. Moving Files over SSH with scp
