@@ -35,6 +35,7 @@ Remote Access and the Filesystem
 * Shows that it runs on linux on server
 5. SSH Keys
 * use ssh-keygen to create a pair of files called public key and private key
+* the ssh command can use the pair of files in place of the password
 * Then copy the public key to .ssh directory of user account on ther server
 ![sc6](sc6.png)<br />
 6. Making Remote Running Even More Pleasant<br />
