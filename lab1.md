@@ -21,7 +21,7 @@ Remote Access and the Filesystem
 * After ssh-ing run commands
 * one example is in the image above which I used the command cat /home/linux/ieng6/cs15lfa22/public/hello.txt
 ** the command above ^ allows the user to view the file hello.txt
-** other command is ls </home/linux/ieng6/cs15lfa22/cs15lfa22oj this would list all the files and directories
+* other command is ls </home/linux/ieng6/cs15lfa22/cs15lfa22oj this would list all the files and directories
 4. Moving Files over SSH with scp
 * To copy file from personal computer to remote computer use the command scp; scp WhereAmI.java cs15lfa22oj@ieng6.ucsd.edu
 ** make sure it is run form the client not logged into ieng6
@@ -37,7 +37,7 @@ Remote Access and the Filesystem
 * use ssh-keygen to create a pair of files called public key and private key
 * the ssh command can use the pair of files in place of the password
 * Then copy the public key to .ssh directory of user account on ther server
-![sc6](sc6.png)<br />
+![sc6](screenssh.png)<br />
 6. Making Remote Running Even More Pleasant<br />
 ![sc7](sc7.png)<br />
 * Use semicolons to run multiple commands on the same line
