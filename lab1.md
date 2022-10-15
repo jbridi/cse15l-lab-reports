@@ -29,7 +29,7 @@ Remote Access and the Filesystem
 5. SSH Keys
 * use ssh-keygen to create a pair of files called public key and private key
 * Then copy the public key to .ssh directory of user account on ther server
-![sc6](sc6.png)<br />
+![sc6](screenssh.png)<br />
 6. Making Remote Running Even More Pleasant<br />
 ![sc7](sc7.png)<br />
 * Use semicolons to run multiple commands on the same line
